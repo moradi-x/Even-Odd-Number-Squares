@@ -8,7 +8,7 @@ using HTML, CSS, and PHP loops. Ideal for beginners learning web development bas
 1. Clone the repository.
 2. Place `index.php` in a PHP-enabled server (e.g., XAMPP, 000webhost).
 3. Open `index.php` in a browser.
-4. 
+
 ## Features
 - Dynamic generation of divs using PHP loops.
 - CSS styling for even (red) and odd (gold) numbers.
